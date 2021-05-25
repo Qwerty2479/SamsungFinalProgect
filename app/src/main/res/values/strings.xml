@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SamsungFinalProject</string>
+    <!--MainMenu-->
+    <string name="txt_MainMenu_NameGame">Приключения Степана</string>
+    <string name="txt_MainMenu_NewGame">Новая игра</string>
+    <string name="txt_MainMenu_Settings">Настройки</string>
+    <string name="txt_MainMenu_Shop">Магазин</string>
+    <string name="txt_MainMenu_Exit">Выход</string>
+    <!--LevelScene-->
+    <string name="txt_GameScene_StateReady_Ready">Не забудте оформить платную подписку!!! Пожалуйста(((</string>
+</resources>
